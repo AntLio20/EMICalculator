@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="principal_amount">Principal Amount ($)</string>
+    <string name="down_payment">Down Payment ($)</string>
+    <string name="interest_rate">Interest Rate (%/year)</string>
+    <string name="tenure_months">Tenure (# of Months)</string>
+    <string name="calculate_emi">Calculate EMI</string>
+    <string name="emi">EMI:</string>
+    <string name="emi_calculator">EMI Calculator</string>
+</resources>
